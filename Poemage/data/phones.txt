@@ -1,0 +1,39 @@
+AA	vowel: monophthong: back: long
+AE	vowel: monophthong: front: long
+AH	vowel: monophthong: central: short
+AO	vowel: monophthong: back: long
+AW	vowel: diphthong: none: long
+AY	vowel: diphthong: none: long
+B	stop: voiced: bilabial
+CH	affricate: voiceless: lingua-alveolar
+D	stop: voiced: lingua-alveolar
+DH	fricative: voiced: lingua-dental
+EH	vowel: monophthong: front: short
+ER	vowel: monophthong: central: long
+EY	vowel: diphthong: none: long
+F	fricative: voiceless: labiodental
+G	stop: voiced: lingua-velar 
+HH	aspirate: voiceless: glottal
+IH	vowel: monophthong: front: short
+IY	vowel: monophthong: front: long
+JH	affricate: voiced: lingua-alveolar
+K	stop: voiceless: lingua-velar
+L	liquid: voiced: lingua-alveolar
+M	nasal: voiced: bilabial
+N	nasal: voiced: lingua-alveolar
+NG	nasal: voiced: lingua-velar
+OW	vowel: monophthong: back: long
+OY	vowel: diphthong: none: long
+P	stop: voiceless: bilabial
+R	liquid: voiced: lingua-palatal
+S	fricative: voiceless: lingua-alveolar
+SH	fricative: voiceless: lingua-palatal
+T	stop: voiceless: lingua-alveolar
+TH	fricative: voiceless: lingua-dental
+UH	vowel: monophthong: back: short
+UW	vowel: monophthong: back: long
+V	fricative: voiced: labiodental
+W	glide: voiced: bilabial
+Y	glide: voiced: lingua-palatal
+Z	fricative: voiced: lingua-alveolar
+ZH	fricative: voiced: lingua-palatal
