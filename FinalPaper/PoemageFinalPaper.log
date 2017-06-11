@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  11 JUN 2017 15:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  11 JUN 2017 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,9 +591,9 @@ Missing character: There is no ™ in font ptmr7t!
 
 
  <./diamondrule.pdf>]
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no ™ in font ptmri7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
 
 [2] (./PoemageFinalPaper.bbl
 LaTeX Font Info:    Try loading font information for OT1+txtt on input line 19.
@@ -602,32 +602,30 @@ LaTeX Font Info:    Try loading font information for OT1+txtt on input line 19.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Font shape `OT1/txtt/m/it' in size <8> not available
-(Font)              Font shape `OT1/txtt/m/sl' tried instead on input line 19.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `txtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--20
-\OT1/txtt/m/sl/8 dh2012 . uni-[]hamburg . de / conference / programme / abstrac
-ts /
+\OT1/txtt/m/n/8 dh2012 . uni-[]hamburg . de / conference / programme / abstract
+s /
  []
 
 
-Overfull \hbox (1.0087pt too wide) in paragraph at lines 16--20
-\OT1/txtt/m/sl/8 myopia-[]a-[]visualization-[]tool-[]in-[]support-[]of-[]close-
-[]reading .
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+\OT1/txtt/m/n/8 myopia-[]a-[]visualization-[]tool-[]in-[]support-[]of-[]close-[
+]reading .
  []
 
-Missing character: There is no Ì in font ptmri7t!
-Missing character: There is no ˆ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no “ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no “ in font ptmri7t!
+Missing character: There is no Ì in font ptmr7t!
+Missing character: There is no ˆ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no “ in font ptmr7t!
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
  [3
@@ -642,11 +640,11 @@ Package rerunfilecheck Info: File `PoemageFinalPaper.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  ) 
 Here is how much of TeX's memory you used:
- 8933 strings out of 493014
- 137181 string characters out of 6133351
- 261160 words of memory out of 5000000
- 12142 multiletter control sequences out of 15000+600000
- 46187 words of font info for 179 fonts, out of 8000000 for 9000
+ 8948 strings out of 493014
+ 137220 string characters out of 6133351
+ 260160 words of memory out of 5000000
+ 12140 multiletter control sequences out of 15000+600000
+ 44679 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,8n,38p,1481b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -655,7 +653,7 @@ exlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/
 xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on PoemageFinalPaper.pdf (3 pages, 73215 bytes).
+Output written on PoemageFinalPaper.pdf (3 pages, 73940 bytes).
 PDF statistics:
  160 PDF objects out of 1000 (max. 8388607)
  147 compressed objects within 2 object streams
