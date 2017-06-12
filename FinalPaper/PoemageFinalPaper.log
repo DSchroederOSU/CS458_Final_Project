@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  11 JUN 2017 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  12 JUN 2017 00:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -414,29 +414,29 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 64.
 (./PoemageFinalPaper.aux)
 \openout1 = `PoemageFinalPaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 148.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 150.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 148.
-LaTeX Font Info:    ... okay on input line 148.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 148.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 150.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -469,7 +469,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 148.
+LaTeX Info: Redefining \microtypecontext on input line 150.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -494,7 +494,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 144.
 )
-Package hyperref Info: Link coloring ON on input line 148.
+Package hyperref Info: Link coloring ON on input line 150.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -504,15 +504,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count119
 )
-LaTeX Info: Redefining \ref on input line 148.
-LaTeX Info: Redefining \pageref on input line 148.
-LaTeX Info: Redefining \nameref on input line 148.
+LaTeX Info: Redefining \ref on input line 150.
+LaTeX Info: Redefining \pageref on input line 150.
+LaTeX Info: Redefining \nameref on input line 150.
 
 (./PoemageFinalPaper.out) (./PoemageFinalPaper.out)
 \@outlinefile=\write3
 \openout3 = `PoemageFinalPaper.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 157.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 159.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
@@ -523,7 +523,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 15
-7.
+9.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -533,46 +533,76 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 15
-7.
+9.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 15
-7.
+9.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 15
-7.
+9.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+Package epstopdf Info: Source file: <PoemageHeaderImage.eps>
+(epstopdf)                    date: 2017-06-12 00:45:35
+(epstopdf)                    size: 4193954 bytes
+(epstopdf)             Output file: <PoemageHeaderImage-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-06-12 00:45:35
+(epstopdf)                    size: 132936 bytes
+(epstopdf)             Command: <repstopdf --outfile=PoemageHeaderImage-eps-con
+verted-to.pdf PoemageHeaderImage.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
 
-<diamondrule.pdf, id=88, 213.79875pt x 12.045pt>
-File: diamondrule.pdf Graphic file (type pdf)
- <use diamondrule.pdf>
-Package pdftex.def Info: diamondrule.pdf used on input line 157.
+<PoemageHeaderImage-eps-converted-to.pdf, id=92, 556.0775pt x 312.16624pt>
+File: PoemageHeaderImage-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PoemageHeaderImage-eps-converted-to.pdf>
+Package pdftex.def Info: PoemageHeaderImage-eps-converted-to.pdf used on input 
+line 159.
+(pdftex.def)             Requested size: 514.92374pt x 289.06839pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
+Package epstopdf Info: Source file: <diamondrule.eps>
+(epstopdf)                    date: 2017-06-11 15:32:09
+(epstopdf)                    size: 1628 bytes
+(epstopdf)             Output file: <diamondrule-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-06-12 00:47:02
+(epstopdf)                    size: 2572 bytes
+(epstopdf)             Command: <repstopdf --outfile=diamondrule-eps-converted-
+to.pdf diamondrule.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
+
+<diamondrule-eps-converted-to.pdf, id=95, 213.79875pt x 12.045pt>
+File: diamondrule-eps-converted-to.pdf Graphic file (type pdf)
+
+<use diamondrule-eps-converted-to.pdf>
+Package pdftex.def Info: diamondrule-eps-converted-to.pdf used on input line 15
+9.
 (pdftex.def)             Requested size: 213.79822pt x 12.04495pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 157.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 159.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 157.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 159.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
@@ -590,12 +620,28 @@ Missing character: There is no ô in font ptmr7t!
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./diamondrule.pdf>]
+ <./PoemageHeaderImage-eps-converted-to.pdf> <./diamondrule-eps-converted-to.pd
+f>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-[2] (./PoemageFinalPaper.bbl
+[3] (./PoemageFinalPaper.bbl
 LaTeX Font Info:    Try loading font information for OT1+txtt on input line 19.
 
 
@@ -627,24 +673,24 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
- [3
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+ [4
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
  (./PoemageFinalPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
 Package rerunfilecheck Info: File `PoemageFinalPaper.out' has not changed.
-(rerunfilecheck)             Checksum: 124B81780A32D79928C1B6B5E98F7DC6;1431.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
+(rerunfilecheck)             Checksum: 3AEA9324105891031F4F2A51A2162C1B;1506.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
- 8945 strings out of 493014
- 137196 string characters out of 6133351
- 261160 words of memory out of 5000000
- 12140 multiletter control sequences out of 15000+600000
- 44560 words of font info for 188 fonts, out of 8000000 for 9000
+ 8980 strings out of 493014
+ 137732 string characters out of 6133351
+ 260066 words of memory out of 5000000
+ 12150 multiletter control sequences out of 15000+600000
+ 45087 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,8n,38p,1481b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -653,10 +699,10 @@ exlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/
 xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on PoemageFinalPaper.pdf (3 pages, 74091 bytes).
+Output written on PoemageFinalPaper.pdf (4 pages, 209076 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 45230 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 45243 words of extra memory for PDF output out of 51595 (max. 10000000)
 

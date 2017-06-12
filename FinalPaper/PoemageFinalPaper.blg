@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PoemageFinalPaper.aux
+The style file: abbrv-doi.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: refs.bib
+You've used 7 entries,
+            2598 wiz_defined-function locations,
+            630 strings with 5730 characters,
+and the built_in function-call counts, 4808 in all, are:
+= -- 967
+> -- 150
+< -- 150
++ -- 209
+- -- 55
+* -- 179
+:= -- 734
+add.period$ -- 20
+call.type$ -- 7
+change.case$ -- 47
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 63
+empty$ -- 166
+format.name$ -- 52
+if$ -- 1224
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 4
+newline$ -- 55
+num.names$ -- 14
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 56
+stack$ -- 0
+substring$ -- 242
+swap$ -- 7
+text.length$ -- 81
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 0
+while$ -- 22
+width$ -- 8
+write$ -- 160
