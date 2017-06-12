@@ -1,0 +1,60 @@
+\begin{thebibliography}{1}
+
+\bibitem{serendip}
+E.~Alexander, J.~Kohlmann, R.~Valenza, M.~Witmore, and M.~Gleicher.
+\newblock Serendip: Topic model-driven visual exploration of text corpora.
+\newblock {\em 2014 IEEE Conference on Visual Analytics Science and Technology
+  (VAST)}, 2014. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1109\discretionary{/}{%
+}{/}vast\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2014\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}7042493}}
+
+
+\bibitem{myopia}
+M.~Chaturvedi, G.~Gannod, L.~Mandell, H.~Armstrong, and E.~Hodgson.
+\newblock Myopia: A visualization tool in support of close reading.
+\newblock
+  \url{http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/myopia-a-visualization-tool-in-support-of-close-reading.1.html}.
+
+\bibitem{reading}
+S.~Jänicke, G.~Franzini, M.~F. Cheema, and G.~Scheuermann.
+\newblock On close and distant reading in digital humanities: A survey and
+  future challenges.
+\newblock \url{http://www.informatik.uni-leipzig.de/~stjaenicke/Survey.pdf}.
+
+\bibitem{emargin}
+A.~Kehoe and M.~Gee.
+\newblock emargin: A collaborative textual annotation tool.
+\newblock {\em Ariadne}, 71, 2013.
+
+\bibitem{poemage}
+N.~Mccurdy, J.~Lein, K.~Coles, and M.~Meyer.
+\newblock Poemage: Visualizing the sonic topology of a poem.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  22(1):439–448, 2016. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1109\discretionary{/}{%
+}{/}tvcg\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2015\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2467811}}
+
+
+\bibitem{nielson}
+J.~Nielson.
+\newblock Usability 101: Introduction to usability.
+
+\bibitem{texthighlighting}
+H.~Strobelt, D.~Oelke, B.~C. Kwon, T.~Schreck, and H.~Pfister.
+\newblock Guidelines for effective usage of text highlighting techniques.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  22(1):489–498, 2016. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1109\discretionary{/}{%
+}{/}tvcg\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2015\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2467759}}
+
+
+\end{thebibliography}
