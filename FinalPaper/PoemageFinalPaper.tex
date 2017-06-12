@@ -97,9 +97,9 @@
 \item
  Daniel Schroeder is a computer science student at Oregon State University. E-mail: schrodan@oregonstate.edu.
 \item
- BUNGO Takahashi is a computer science student at Oregon State University. E-mail: takahasb@oregonstate.edu.
+ BUNGO ENTER HERE
 \item
- WILL ENTER HERE
+ Will Sims is a computer science student at Oregon State University.\break E-mail: simsw@oregonstate.edu.
 }
 
 %other entries to be set up for journal
@@ -112,7 +112,7 @@
 
 %% Keywords that describe your work. Will show as 'Index Terms' in journal
 %% please capitalize first letter and insert punctuation after last keyword
-\keywords{Visualization in the humanities, design studies, text and document data, graph/network data, text highlighting, evaluation and usability, poemage}
+\keywords{Visualization in the humanities, design studies, text and document data, graph/network data}
 
 %% ACM Computing Classification System (CCS). 
 %% See <http://www.acm.org/class/1998/> for details.
@@ -125,14 +125,12 @@
 }
 
 %% Uncomment below to include a teaser figure.
-\teaser{
-  \centering
-  \includegraphics[width=\linewidth]{PoemageHeaderImage.eps}
-  \caption{The Poemage interface comprises three linked views: (left) the set view allows users to browse sets of words linked through
-sonic and linguistic resemblances; (middle) the poem view allows users to explore sonically linked words directly via the text; (right)
-the path view shows the sonic topology of a poem. \cite{poemage}}
-	\label{fig:teaser}
-}
+%%\teaser{
+%%  \centering
+%%  \includegraphics[width=\linewidth, height=3.5in]{FF}
+%%  \caption{Photo by: Zach Freedel. The photo of the fog was taken in Corvallis, Oregon, on the campus of Oregon State University.}
+%%	\label{fig:teaser}
+%%}
 
 %% Uncomment below to disable the manuscript note
 \renewcommand{\manuscriptnotetxt}{}
@@ -156,14 +154,14 @@ the path view shows the sonic topology of a poem. \cite{poemage}}
 \firstsection{Introduction}
 
 \maketitle
-\subsection{What is Poemage}
-Poemage is a sonic topology visualization tool for poetry. The project was designed and created by a team of computer scientists and poets at the University of Utah. Poemage contains three types of data which are poem space, rhyme sets, and sonic topology. In Poemage, words have their own locations defined by the word’s position in a line and the line’s position in the poem space.  In addition to that, words belong to rhyme sets which are calculated by Poemage’s rhyming scheme, and there are 24 different kinds of rhyme types in the current version of Poemage. Then, sonic topology is calculated based on those sets of words classified in rhyme sets. Using those three attributes, Poemage visualizes sonic topology of poems and help users understand how words in a poem relate to one another.
-\subsection{Problem}
- The problem behind the project was how the computer can contribute to close reading. In general, there are two types of reading: distant reading and close reading. In distant reading, {\it``It aims to generate an abstract view by shifting from observing textual content to visualizing global features of a single or of multiple text(s)''.} \cite{reading} On the contrary, in close reading, it includes analysis on individuals, events, and ideas, their development and interaction, used words and phrases, text structure and style, and argument patterns. \cite{reading} As we know, the computer can process a lot of data, and textual data is not an exception, which means it is good at distant reading. However, it has been a question if the computer can be used for close reading, because it requires analysis on a single text from a lot of viewpoints. Having said that, the project team from the University of Utah decided to create a tool that focuses on one of the aspects in close reading, which is sound, so that the computer can contribute to that type of reading.
 
-\subsection{Purpose and Importance}
-As explained earlier, close reading requires analysis on a single text from different points of view, and sound is one of them. Especially in poem, sounds of words interact with one another complexly, which makes it hard for poets to analyze rhyme efficiently. So the purpose of the Poemage project is to visualize sonic topology so as to generate productive meaning from poems in terms of sound, and it helps users understand relationships and interactions between words more effectively. This visualization is important because it is difficult for a human to capture all of the relationships between words and analyze them by hand.
-
+The work presented here yields the following benefits and contributions:
+\begin{itemize}
+\setlength\itemsep{0em}
+\item blah 
+\item blah
+\item blah
+\end{itemize}
 
 \section{Related Work} \label{research}
 
@@ -198,14 +196,32 @@ On the top right corner of the Poemage interface, there are three mode buttons t
 \subsection{Support for Multiple Languages}
 Our biggest improvement we want to perform is the support for multiple languages by the Poemage program. Currently, Poemage is implemented with rhyme rules and text parsing meant for Latin based languages and creates sets sonically related words that comply to rules of the English language. To create multiple language support, this would mean implementing an immense amount of code reconstruction and new functions that would correctly parse and categorize syllables in other languages. This would mean an entirely new code base that has language rules and parsing techniques that are able to recognize non-English sounds and letter combinations. Although difficult, we feel like this would be a very beneficial improvement to the Poemage program and extend the project’s benefits to a broader audience.
 
-
-
-
 \section{Results and Performance} \label{results}
 \subsection{Method Overview}
-
+Poemage is a tool that was created for close reading which is primarily used in education. 
+We wanted to build on this application by making assessing how well it meets the needs of students and people that speak languages other than English. 
+In order to accomplish this, we evaluated the effectiveness of Poemage while using different languages such as Spanish, and also conducted a usability evaluation to evaluate the ease of use of the application. 
 \subsection{Usability Evaluation}
-
+According to Nielsen, Usability is a quality attribute that assesses how easy user interfaces are to use. 
+The word "usability" also refers to methods for improving ease-of-use during the design process \cite{nielson}. 
+Since it very likely Poemage will be used in an education setting, it is critical that students are able to understand how to use the application. 
+Usability is especially important because Poemage is only useful when it is more efficient than analyzing a poem by hand. 
+We conducted a cognitive walkthrough before creating our tasks for the usability evaluation so that we could find areas of interest that we would like to test with users. 
+\indent The cognitive walkthrough showed that some of the problem areas may include the ambiguity of the modes section, overlapping text when selecting all parts of a sonic rhyme. 
+It was also unclear whether or not there are more sonic rhymes below “Phonetic Assonance” in the set view, and it is difficult to see which syllables in a word are actually making the sound that rhymes with other words. 
+We used these findings from the cognitive walkthrough to construct the tasks that users would perform for usability testing. 
+\subsection{Tasks, Metrics, and Users}
+We created two tasks for users to perform in order to evaluate the usability of Poemage. 
+The first task was to view the poem ‘Night’ by Louise Bogan and select EH and AY vowel slant rhymes. 
+Parcicipants were then asked if they could explain what a vowel slant rhyme was from the output. 
+Lastly, we instructed them to change the mode to 2 and explain what they believed had occurred from that change. 
+The purpose of this task was to see if users understood how to select a specific syllable from the Vowel Slant Rhyme section and interpret the output. 
+We also wanted to see if they understood the different modes in Poemage. 
+\indent The second task was to view the poem EMILYDICKINSON\_861. 
+They were then instructed to select S from the single character visual rhyme. 
+We also asked them how they interpreted the results that were displayed on the screen. 
+The purpose of this task was to see if they knew how to select a poem from the list and scroll down in the set view in to find the visual rhymes section. 
+We also wanted to see if they understood what a visual rhyme is and if they knew how to select a character from the list. 
 \subsection{Poemage With Different Languages}
 
 \subsection{Performance Analysis}
