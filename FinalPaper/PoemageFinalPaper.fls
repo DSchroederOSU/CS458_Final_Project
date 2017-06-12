@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 PWD /Users/Will/GitHub/CS458_Final_Project/FinalPaper
 INPUT /usr/local/texlive/2016/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT /Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex
+=======
+PWD /Users/DanielSchroederMac/CS458_Final_project/FinalPaper
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/DanielSchroederMac/CS458_Final_project/FinalPaper/PoemageFinalPaper.tex
+>>>>>>> upstream/master
 OUTPUT PoemageFinalPaper.log
 INPUT vgtc.cls
 INPUT vgtc.cls
@@ -149,8 +157,22 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+<<<<<<< HEAD
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
+=======
+INPUT PoemageHeaderImage.eps
+INPUT ./PoemageHeaderImage.eps
+INPUT ./PoemageHeaderImage.eps
+INPUT ./PoemageHeaderImage-eps-converted-to.pdf
+INPUT ./PoemageHeaderImage-eps-converted-to.pdf
+INPUT ./PoemageHeaderImage.eps
+INPUT ./PoemageHeaderImage-eps-converted-to.pdf
+INPUT ./PoemageHeaderImage-eps-converted-to.pdf
+INPUT ./PoemageHeaderImage-eps-converted-to.pdf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+>>>>>>> upstream/master
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
 INPUT diamondrule.pdf
 INPUT ./diamondrule.pdf
@@ -173,7 +195,11 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8c.tfm
+<<<<<<< HEAD
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+=======
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+>>>>>>> upstream/master
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
@@ -181,6 +207,7 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+<<<<<<< HEAD
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
@@ -195,6 +222,23 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri8c.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
+=======
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvbc7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri8c.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+>>>>>>> upstream/master
 INPUT PoemageFinalPaper.bbl
 INPUT PoemageFinalPaper.bbl
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/txfonts/ot1txtt.fd

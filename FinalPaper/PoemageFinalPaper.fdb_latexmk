@@ -1,4 +1,5 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["bibtex PoemageFinalPaper"] 1497230318 "PoemageFinalPaper.aux" "PoemageFinalPaper.bbl" "PoemageFinalPaper" 1497230319
   "./abbrv-doi.bst" 1497225010 27244 4c23ed8d63be63dc39b9aab722083c7e ""
   "PoemageFinalPaper.aux" 1497230319 3245 eae1a3ff4263ddbb73898d8c44ae54f7 ""
@@ -9,6 +10,18 @@
   "PoemageFinalPaper.bbl"
 ["pdflatex"] 1497230319 "/Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex" "PoemageFinalPaper.pdf" "PoemageFinalPaper" 1497230319
   "/Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex" 1497230003 18810 633d05539ef43ce6b0fd1da7ba49b429 ""
+=======
+["bibtex PoemageFinalPaper"] 1497224970 "PoemageFinalPaper.aux" "PoemageFinalPaper.bbl" "PoemageFinalPaper" 1497224971
+  "./abbrv-doi.bst" 1496254508 27244 4c23ed8d63be63dc39b9aab722083c7e ""
+  "PoemageFinalPaper.aux" 1497224970 4269 be00c32abc3bc8941053e6585b25ef4e ""
+  "PoemageFinalPaper.bcf" 0 -1 0 ""
+  "refs.bib" 1497221739 2545 85f19d7a6fb12abe35656e3ba2697102 ""
+  (generated)
+  "PoemageFinalPaper.bbl"
+  "PoemageFinalPaper.blg"
+["pdflatex"] 1497224970 "/Users/DanielSchroederMac/CS458_Final_project/FinalPaper/PoemageFinalPaper.tex" "PoemageFinalPaper.pdf" "PoemageFinalPaper" 1497224971
+  "/Users/DanielSchroederMac/CS458_Final_project/FinalPaper/PoemageFinalPaper.tex" 1497224970 18672 cf0b8a9bf3960b1b32882a6496e29c3e ""
+>>>>>>> upstream/master
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -18,7 +31,10 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm" 1136768653 4712 9ef4d7d106579d4b136e1529e1a4533c ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768653 2124 2601a75482e9426d33db523edf23570a ""
+<<<<<<< HEAD
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768653 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
+=======
+>>>>>>> upstream/master
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768653 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri8c.tfm" 1136768653 1428 3f135d3346fb7bfe71989ef2e19a9f01 ""
@@ -37,7 +53,10 @@
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvbc7t.vf" 1136768653 1948 78b2ea37eeb4bf6051b5ed2a5c9e7868 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf" 1136768653 1372 dc841a9f00a1a11b1443367ae6c5588e ""
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1136768653 1380 0ea3a3370054be6da6acd929ec569f06 ""
+<<<<<<< HEAD
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1136768653 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
+=======
+>>>>>>> upstream/master
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1136768653 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/times/ptmri8c.vf" 1136768653 3564 2068501a2226e54ce367edd5b047e424 ""
   "/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -96,6 +115,7 @@
   "/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty" 1238697683 10894 d359a13923460b2a73d4312d613554c8 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+<<<<<<< HEAD
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1492402449 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
@@ -109,4 +129,20 @@
   "PoemageFinalPaper.aux"
   "PoemageFinalPaper.pdf"
   "PoemageFinalPaper.out"
+=======
+  "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1492753464 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
+  "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "PoemageFinalPaper.aux" 1497224970 4269 be00c32abc3bc8941053e6585b25ef4e ""
+  "PoemageFinalPaper.bbl" 1497224970 2109 4cadface64c9e56d49cbefb0f5168bfb "bibtex PoemageFinalPaper"
+  "PoemageFinalPaper.out" 1497224970 1431 124b81780a32d79928c1b6b5e98f7dc6 ""
+  "PoemageFinalPaper.tex" 1497224970 18672 cf0b8a9bf3960b1b32882a6496e29c3e ""
+  "PoemageHeaderImage.eps" 1497224482 4193954 405fdb2ff6d2e3ca937ea95500e33443 ""
+  "diamondrule.pdf" 1496254508 1335 e82887b13e7469ef004fc36f59818f7a ""
+  "vgtc.cls" 1496254508 27431 c725a946e19983dbfe72d2b06f47a8bf ""
+  (generated)
+  "PoemageFinalPaper.pdf"
+  "PoemageFinalPaper.out"
+  "PoemageFinalPaper.aux"
+>>>>>>> upstream/master
   "PoemageFinalPaper.log"
