@@ -151,7 +151,7 @@ $(MAINTEXFILE) : $(SUBTEXFILES) $(BIBFILES)
 
 # cleans anything that can be re-generated automatically, plus emacs backups
 clean: 
-				rm -f *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg	\
+				rm -f *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg *.gz *.fls *.fdb_latexmk	\
 				*.inx *.toc *.out $(DVIFILES) $(PSFILES) template.pdf *~
 
 .PHONY : all pdf ps dvi clean $(MAINTEXFILE)
