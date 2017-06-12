@@ -1,8 +1,8 @@
-PWD /Users/Will/GitHub/CS458_Final_Project/FinalPaper
+PWD /Users/DanielSchroederMac/CS458_Final_Project/FinalPaper
 INPUT /usr/local/texlive/2016/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex
+INPUT /Users/DanielSchroederMac/CS458_Final_project/FinalPaper/PoemageFinalPaper.tex
 OUTPUT PoemageFinalPaper.log
 INPUT vgtc.cls
 INPUT vgtc.cls
