@@ -4,44 +4,46 @@ The top-level auxiliary file: PoemageFinalPaper.aux
 The style file: abbrv-doi.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: refs.bib
-You've used 6 entries,
+Warning--I didn't find a database entry for "nielson"
+You've used 5 entries,
             2598 wiz_defined-function locations,
-            626 strings with 5512 characters,
-and the built_in function-call counts, 4504 in all, are:
-= -- 941
-> -- 127
+            623 strings with 5386 characters,
+and the built_in function-call counts, 4309 in all, are:
+= -- 925
+> -- 120
 < -- 150
-+ -- 200
-- -- 47
-* -- 161
-:= -- 682
-add.period$ -- 17
-call.type$ -- 6
-change.case$ -- 40
++ -- 197
+- -- 45
+* -- 156
+:= -- 651
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 36
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 56
-empty$ -- 143
-format.name$ -- 44
-if$ -- 1161
+cite$ -- 5
+duplicate$ -- 49
+empty$ -- 120
+format.name$ -- 42
+if$ -- 1118
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 5
 missing$ -- 4
-newline$ -- 50
-num.names$ -- 12
-pop$ -- 42
+newline$ -- 46
+num.names$ -- 10
+pop$ -- 34
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 31
 quote$ -- 0
-skip$ -- 48
+skip$ -- 38
 stack$ -- 0
-substring$ -- 237
-swap$ -- 6
+substring$ -- 232
+swap$ -- 5
 text.length$ -- 81
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
+type$ -- 20
 warning$ -- 0
-while$ -- 20
-width$ -- 7
-write$ -- 151
+while$ -- 18
+width$ -- 6
+write$ -- 144
+(There was 1 warning)
