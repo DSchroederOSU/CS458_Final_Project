@@ -230,6 +230,9 @@ On the top right corner of the Poemage interface, there are three mode buttons t
 Our biggest improvement we want to perform is the support for multiple languages by the Poemage program. Currently, Poemage is implemented with rhyme rules and text parsing meant for Latin based languages and creates sets sonically related words that comply to rules of the English language. To create multiple language support, this would mean implementing an immense amount of code reconstruction and new functions that would correctly parse and categorize syllables in other languages. This would mean an entirely new code base that has language rules and parsing techniques that are able to recognize non-English sounds and letter combinations. Although difficult, we feel like this would be a very beneficial improvement to the Poemage program and extend the project’s benefits to a broader audience.
 
 \section{Results and Performance} \label{results}
+\subsection{Usability Evaluation}
+\subsection{Poemage With Different Languages}
+As we have discussed so far, Poemage is able to find out rhyme sets in poetry written in English.  Then we  decided to test whether Poemage would work with a different latin based language. We chose the spanish poem,The Road Not Taken, as the test case, and the result was not something beneficial. The reason behind this poor result is that each language has different pronunciations for the same word, and Poemage is implemented only with the English rhyme sets. So Poemage is not able to detect rhyme sets in poetry written in the other languages. Having said that, Poemage would need a rhyme set scheme peculiar to each language if we were to refine the software so that it would work with the other languages.
 
 \subsection{Performance Analysis}
 
