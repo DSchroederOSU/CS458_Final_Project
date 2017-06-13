@@ -7,18 +7,6 @@
 \BOOKMARK [2][-]{subsection.3.1}{Method Overview}{section.3}% 7
 \BOOKMARK [2][-]{subsection.3.2}{Usability Evaluation}{section.3}% 8
 \BOOKMARK [2][-]{subsection.3.3}{Tasks, Metrics, and Users}{section.3}% 9
-<<<<<<< HEAD
-\BOOKMARK [2][-]{subsection.3.4}{Poemage With Different Languages}{section.3}% 10
-\BOOKMARK [1][-]{section.4}{Enhancements}{}% 11
-\BOOKMARK [2][-]{subsection.4.1}{Colored Background Text Highlighting}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.2}{On-Hover Functionality and Text Spacing for Filters Window}{section.4}% 13
-\BOOKMARK [2][-]{subsection.4.3}{Arrow to Indicate Scrollable Filters Menu}{section.4}% 14
-\BOOKMARK [2][-]{subsection.4.4}{Remove Mode Buttons}{section.4}% 15
-\BOOKMARK [2][-]{subsection.4.5}{Support for Multiple Languages}{section.4}% 16
-\BOOKMARK [1][-]{section.5}{Results and Performance}{}% 17
-\BOOKMARK [2][-]{subsection.5.1}{Performance Analysis}{section.5}% 18
-\BOOKMARK [1][-]{section.6}{Conclusions and Future Work}{}% 19
-=======
 \BOOKMARK [2][-]{subsection.3.4}{Algorithms}{section.3}% 10
 \BOOKMARK [2][-]{subsection.3.5}{Poemage With Different Languages}{section.3}% 11
 \BOOKMARK [1][-]{section.4}{Enhancements}{}% 12
@@ -30,4 +18,3 @@
 \BOOKMARK [1][-]{section.5}{Results and Performance}{}% 18
 \BOOKMARK [2][-]{subsection.5.1}{Performance Analysis}{section.5}% 19
 \BOOKMARK [1][-]{section.6}{Conclusions and Future Work}{}% 20
->>>>>>> upstream/master
