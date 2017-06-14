@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUN 2017 11:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUN 2017 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,15 +677,15 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./PoemageFinalPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `PoemageFinalPaper.out' has not changed.
 (rerunfilecheck)             Checksum: 439D35C2A6A923AEE4CBB697EE8C3D19;1501.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
  ) 
 Here is how much of TeX's memory you used:
  9005 strings out of 493014
@@ -702,10 +702,10 @@ xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on PoemageFinalPaper.pdf (4 pages, 231311 bytes).
+Output written on PoemageFinalPaper.pdf (4 pages, 232749 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
+ 190 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
  39 named destinations out of 1000 (max. 500000)
  45760 words of extra memory for PDF output out of 51595 (max. 10000000)
 
