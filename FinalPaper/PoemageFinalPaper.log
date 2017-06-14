@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 JUN 2017 12:10
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  13 JUN 2017 03:57
->>>>>>> upstream/master
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUN 2017 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-<<<<<<< HEAD
-**/Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex
-(/Users/Will/GitHub/CS458_Final_Project/FinalPaper/PoemageFinalPaper.tex
-=======
 **PoemageFinalPaper.tex
 (./PoemageFinalPaper.tex
->>>>>>> upstream/master
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (./vgtc.cls
@@ -564,26 +555,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-<<<<<<< HEAD
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
-=======
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-Package epstopdf Info: Source file: <PoemageHeaderImage.eps>
-(epstopdf)                    date: 2017-06-12 00:45:35
-(epstopdf)                    size: 4193954 bytes
-(epstopdf)             Output file: <PoemageHeaderImage-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-12 00:45:35
-(epstopdf)                    size: 132936 bytes
-(epstopdf)             Command: <repstopdf --outfile=PoemageHeaderImage-eps-con
-verted-to.pdf PoemageHeaderImage.eps>
-(epstopdf)             \includegraphics on input line 159.
-Package epstopdf Info: Output file is already uptodate.
 
-<PoemageHeaderImage-eps-converted-to.pdf, id=92, 556.0775pt x 312.16624pt>
-File: PoemageHeaderImage-eps-converted-to.pdf Graphic file (type pdf)
->>>>>>> upstream/master
-
-<Redesign.png, id=84, 2983.145pt x 1834.855pt>
+<Redesign.png, id=92, 2983.145pt x 1834.855pt>
 File: Redesign.png Graphic file (type png)
  <use Redesign.png>
 Package pdftex.def Info: Redesign.png used on input line 157.
@@ -591,28 +565,17 @@ Package pdftex.def Info: Redesign.png used on input line 157.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 157.
 Package epstopdf Info: Source file: <diamondrule.eps>
-<<<<<<< HEAD
-(epstopdf)                    date: 2017-06-11 16:50:10
+(epstopdf)                    date: 2017-06-12 11:27:06
 (epstopdf)                    size: 1628 bytes
 (epstopdf)             Output file: <diamondrule-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-12 11:18:37
-=======
-(epstopdf)                    date: 2017-06-11 15:32:09
-(epstopdf)                    size: 1628 bytes
-(epstopdf)             Output file: <diamondrule-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-12 00:52:33
->>>>>>> upstream/master
+(epstopdf)                    date: 2017-06-12 11:27:06
 (epstopdf)                    size: 2572 bytes
 (epstopdf)             Command: <repstopdf --outfile=diamondrule-eps-converted-
 to.pdf diamondrule.eps>
 (epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
-<<<<<<< HEAD
-<diamondrule-eps-converted-to.pdf, id=86, 213.79875pt x 12.045pt>
-=======
-<diamondrule-eps-converted-to.pdf, id=95, 213.79875pt x 12.045pt>
->>>>>>> upstream/master
+<diamondrule-eps-converted-to.pdf, id=94, 213.79875pt x 12.045pt>
 File: diamondrule-eps-converted-to.pdf Graphic file (type pdf)
 
 <use diamondrule-eps-converted-to.pdf>
@@ -661,10 +624,28 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
  [2]
+Package epstopdf Info: Source file: <s.eps>
+(epstopdf)                    date: 2017-06-14 11:14:02
+(epstopdf)                    size: 414678 bytes
+(epstopdf)             Output file: <s-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-06-14 11:14:19
+(epstopdf)                    size: 14185 bytes
+(epstopdf)             Command: <repstopdf --outfile=s-eps-converted-to.pdf s.e
+ps>
+(epstopdf)             \includegraphics on input line 227.
+Package epstopdf Info: Output file is already uptodate.
+
+<s-eps-converted-to.pdf, id=132, 139.52126pt x 121.45375pt>
+File: s-eps-converted-to.pdf Graphic file (type pdf)
+
+<use s-eps-converted-to.pdf>
+Package pdftex.def Info: s-eps-converted-to.pdf used on input line 227.
+(pdftex.def)             Requested size: 142.2672pt x 142.26337pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [3] (./PoemageFinalPaper.bbl
+ [3 <./s-eps-converted-to.pdf>]
+(./PoemageFinalPaper.bbl
 LaTeX Font Info:    Try loading font information for OT1+txtt on input line 19.
 
 
@@ -696,49 +677,24 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 )
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
- [4
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./PoemageFinalPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
-Package rerunfilecheck Info: File `PoemageFinalPaper.out' has not changed.
-(rerunfilecheck)             Checksum: 54A7A3C1C0D5CD9F0EAC1EFE67E72DAB;1349.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
- ) 
-Here is how much of TeX's memory you used:
- 8987 strings out of 493014
- 137806 string characters out of 6133351
- 262103 words of memory out of 5000000
- 12151 multiletter control sequences out of 15000+600000
- 46951 words of font info for 203 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 33i,8n,38p,1531b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
- [4
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
- (./PoemageFinalPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `PoemageFinalPaper.out' has not changed.
 (rerunfilecheck)             Checksum: 439D35C2A6A923AEE4CBB697EE8C3D19;1501.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
  ) 
 Here is how much of TeX's memory you used:
- 8990 strings out of 493014
- 137839 string characters out of 6133351
- 261066 words of memory out of 5000000
- 12153 multiletter control sequences out of 15000+600000
- 46951 words of font info for 203 fonts, out of 8000000 for 9000
+ 9005 strings out of 493014
+ 137920 string characters out of 6133351
+ 262573 words of memory out of 5000000
+ 12160 multiletter control sequences out of 15000+600000
+ 47171 words of font info for 207 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,8n,38p,1481b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
->>>>>>> upstream/master
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/te
@@ -746,19 +702,10 @@ xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-<<<<<<< HEAD
-Output written on PoemageFinalPaper.pdf (4 pages, 216522 bytes).
+Output written on PoemageFinalPaper.pdf (4 pages, 230501 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 45739 words of extra memory for PDF output out of 51595 (max. 10000000)
-=======
-Output written on PoemageFinalPaper.pdf (4 pages, 218841 bytes).
-PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 45755 words of extra memory for PDF output out of 51595 (max. 10000000)
->>>>>>> upstream/master
+ 188 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 45760 words of extra memory for PDF output out of 51595 (max. 10000000)
 
