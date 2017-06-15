@@ -215,13 +215,21 @@ We also used [insert Spanish poem] to evaluate the effectiveness of Poemage when
 For our proposed enhancements, we want to enhance the overall usability and clarity of the Poemage user interface and provide additional services such as on-hover abilities and multiple language support.
 \subsection{Colored Background Text Highlighting}
 The current instantiation of text highlighting in Poemage creates colored ellipses around words in the text that pertain to the given filters applied. This technique causes clutter in the middle viewer window when numerous filters are applied and does not give sufficient information about where the sonic device is located within the word itself. Our solution involves coloring the background behind the word or syllable with a soft, distinguishable color to highlight the part of the word that is being evaluated. Not only will this decrease the clutter in the viewer window, but it will also provide information about the sonic devices that the user was not previously available to.\\ 
-\indent As shown in the figure above, our implementation will allow for multiple background colors to be partitioned throughout a single word and clearly identify which syllable is being targeted by which filter. We feel as though this technique provides clearer and more precise analysis of the given text and provides user with a better understanding of the sonic devices present.
+\vspace{-0.25cm}
+\begin{figure}[H]
+\centering
+\includegraphics[width=5cm,height=4cm]{highlight_mock_up.eps}
+\caption{A mock up example of the background color text highlighting technique. \label{overflow}}
+\label{fig:highlight}
+\end{figure}
+\indent As shown in \autoref{fig:highlight} above, our implementation will allow for multiple background colors to be partitioned throughout a single word and clearly identify which syllable is being targeted by which filter. We feel as though this technique provides clearer and more precise analysis of the given text and provides user with a better understanding of the sonic devices present.
 \subsection{On-Hover Functionality and Text Spacing for Filters Window}
 The filters viewer window has some UI issues we wanted to address and improve upon, specifically the spacing of the text that name the syllable sounds and descriptions of the rhyme types.\\
 \indent The filter window has clickable circles of varying size that correlate to the instances each rhyme rule occurs in the text being analyzed. When one of these circles is clicked, text appears above or below the circle with letters describing the sound each sonic rule targets. When all the circles for a given sonic device are clicked, the texts tend to overlap and become illegible. We anted to implement a redesign of this text to allow padding around the letters and remove any chance of overlap or muddled text and improve readability by the user.\\
 \indent Poemage was developed by scholars and poets, which resulted in a design implementation meant for users that are avid in linguistics and poetic analysis. For novice users, there are a lot of features that are confusing and poorly explained. This is why we would like to add an on-hover feature on the filters list that gives the user a description of what the rhyme rules mean and the given characteristics of each filter (i.e. Masculine Rhyme or Assonance).
 \subsection{Arrow to Indicate Scrollable Filters Menu}
 The filters viewer window is a scrollable window that has multiple rhyme rule filters that are out of view when the program is initiated. The issue is that there is no indication that users can scroll to reveal more filters that are not currently in view. We suggest implementing a simple grey arrow at the bottom of the filters window (shown in \autoref{fig:arrow}) that will inform users they have the ability to scroll down to access more filters. We thought about a way to fit all the filters into a single view so that no scrolling was necessary, but to maintain the tri-window interface and keep the readability, we decided that compacting filters closer together was not optimal. Rather, a simple arrow for indication would ensure users knew more filters were present seemed like the best improvement. 
+
 \begin{figure}[H]
 \centering
 \includegraphics[width=5cm,height=5cm]{s.eps}
