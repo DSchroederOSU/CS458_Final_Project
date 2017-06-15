@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUN 2017 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 JUN 2017 11:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,12 +559,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+Package epstopdf Info: Source file: <Header.eps>
+(epstopdf)                    date: 2017-06-15 11:56:29
+(epstopdf)                    size: 85705288 bytes
+(epstopdf)             Output file: <Header-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-06-15 11:57:18
+(epstopdf)                    size: 820596 bytes
+(epstopdf)             Command: <repstopdf --outfile=Header-eps-converted-to.pd
+f Header.eps>
+(epstopdf)             \includegraphics on input line 157.
+Package epstopdf Info: Output file is already uptodate.
 
-<Redesign.png, id=88, 2983.145pt x 1834.855pt>
-File: Redesign.png Graphic file (type png)
- <use Redesign.png>
-Package pdftex.def Info: Redesign.png used on input line 157.
-(pdftex.def)             Requested size: 514.92374pt x 316.70882pt.
+<Header-eps-converted-to.pdf, id=88, 4397.42876pt x 3231.07124pt>
+File: Header-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Header-eps-converted-to.pdf>
+Package pdftex.def Info: Header-eps-converted-to.pdf used on input line 157.
+(pdftex.def)             Requested size: 514.92374pt x 378.34442pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 157.
 Package epstopdf Info: Source file: <diamondrule.eps>
@@ -578,7 +589,7 @@ to.pdf diamondrule.eps>
 (epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
-<diamondrule-eps-converted-to.pdf, id=90, 213.79875pt x 12.045pt>
+<diamondrule-eps-converted-to.pdf, id=89, 213.79875pt x 12.045pt>
 File: diamondrule-eps-converted-to.pdf Graphic file (type pdf)
 
 <use diamondrule-eps-converted-to.pdf>
@@ -611,7 +622,7 @@ Missing character: There is no ™ in font ptmr7t!
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./Redesign.png> <./diamondrule-eps-converted-to.pdf>]
+ <./Header-eps-converted-to.pdf> <./diamondrule-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 182.
 Missing character: There is no â in font ptmr7t!
@@ -632,23 +643,26 @@ Missing character: There is no º in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ³ in font ptmr7t!
 Package epstopdf Info: Source file: <highlight_mock_up.eps>
-(epstopdf)                    date: 2017-06-14 20:28:31
-(epstopdf)                    size: 1346390 bytes
+(epstopdf)                    date: 2017-06-15 11:30:28
+(epstopdf)                    size: 930521 bytes
 (epstopdf)             Output file: <highlight_mock_up-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-14 20:30:22
-(epstopdf)                    size: 51387 bytes
+(epstopdf)                    date: 2017-06-15 11:53:24
+(epstopdf)                    size: 41664 bytes
 (epstopdf)             Command: <repstopdf --outfile=highlight_mock_up-eps-conv
 erted-to.pdf highlight_mock_up.eps>
 (epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 
-<highlight_mock_up-eps-converted-to.pdf, id=127, 286.06876pt x 194.7275pt>
+<highlight_mock_up-eps-converted-to.pdf, id=128, 240.9pt x 159.59625pt>
 File: highlight_mock_up-eps-converted-to.pdf Graphic file (type pdf)
 
 <use highlight_mock_up-eps-converted-to.pdf>
 Package pdftex.def Info: highlight_mock_up-eps-converted-to.pdf used on input l
 ine 222.
-(pdftex.def)             Requested size: 142.26578pt x 113.80963pt.
+(pdftex.def)             Requested size: 142.26576pt x 113.8109pt.
+
+Underfull \vbox (badness 6910) has occurred while \output is active []
+
 Package epstopdf Info: Source file: <s.eps>
 (epstopdf)                    date: 2017-06-14 11:14:02
 (epstopdf)                    size: 414678 bytes
@@ -660,16 +674,19 @@ ps>
 (epstopdf)             \includegraphics on input line 236.
 Package epstopdf Info: Output file is already uptodate.
 
-<s-eps-converted-to.pdf, id=130, 139.52126pt x 121.45375pt>
+<s-eps-converted-to.pdf, id=131, 139.52126pt x 121.45375pt>
 File: s-eps-converted-to.pdf Graphic file (type pdf)
 
 <use s-eps-converted-to.pdf>
 Package pdftex.def Info: s-eps-converted-to.pdf used on input line 236.
 (pdftex.def)             Requested size: 142.2672pt x 142.26337pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./highlight_mock_up-eps-converted-to.pdf>]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [3 <./highlight_mock_up-eps-converted-to.pdf> <./s-eps-converted-to.pdf>]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
@@ -685,7 +702,8 @@ Missing character: There is no ˜ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [4] (./PoemageFinalPaper.bbl
+ [4 <./s-eps-converted-to.pdf>]
+(./PoemageFinalPaper.bbl
 LaTeX Font Info:    Try loading font information for OT1+txtt on input line 19.
 
 
@@ -735,8 +753,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
  ) 
 Here is how much of TeX's memory you used:
  9011 strings out of 493014
- 138111 string characters out of 6133351
- 262703 words of memory out of 5000000
+ 138169 string characters out of 6133351
+ 262701 words of memory out of 5000000
  12164 multiletter control sequences out of 15000+600000
  47171 words of font info for 207 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -748,10 +766,10 @@ xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on PoemageFinalPaper.pdf (5 pages, 284302 bytes).
+Output written on PoemageFinalPaper.pdf (5 pages, 962924 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
+ 197 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
  40 named destinations out of 1000 (max. 500000)
  45757 words of extra memory for PDF output out of 51595 (max. 10000000)
 
