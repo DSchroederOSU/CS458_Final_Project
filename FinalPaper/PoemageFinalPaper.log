@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUN 2017 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.5)  15 JUN 2017 11:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,10 +568,10 @@ Package pdftex.def Info: Redesign.png used on input line 157.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 157.
 Package epstopdf Info: Source file: <diamondrule.eps>
-(epstopdf)                    date: 2017-06-12 11:27:06
+(epstopdf)                    date: 2017-06-11 15:32:09
 (epstopdf)                    size: 1628 bytes
 (epstopdf)             Output file: <diamondrule-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-12 11:27:06
+(epstopdf)                    date: 2017-06-12 00:52:33
 (epstopdf)                    size: 2572 bytes
 (epstopdf)             Command: <repstopdf --outfile=diamondrule-eps-converted-
 to.pdf diamondrule.eps>
@@ -632,28 +632,28 @@ Missing character: There is no º in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ³ in font ptmr7t!
 Package epstopdf Info: Source file: <highlight_mock_up.eps>
-(epstopdf)                    date: 2017-06-14 20:28:31
-(epstopdf)                    size: 1346390 bytes
+(epstopdf)                    date: 2017-06-15 11:31:58
+(epstopdf)                    size: 930521 bytes
 (epstopdf)             Output file: <highlight_mock_up-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-14 20:30:22
-(epstopdf)                    size: 51387 bytes
+(epstopdf)                    date: 2017-06-15 11:32:16
+(epstopdf)                    size: 41664 bytes
 (epstopdf)             Command: <repstopdf --outfile=highlight_mock_up-eps-conv
 erted-to.pdf highlight_mock_up.eps>
 (epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 
-<highlight_mock_up-eps-converted-to.pdf, id=127, 286.06876pt x 194.7275pt>
+<highlight_mock_up-eps-converted-to.pdf, id=127, 240.9pt x 159.59625pt>
 File: highlight_mock_up-eps-converted-to.pdf Graphic file (type pdf)
 
 <use highlight_mock_up-eps-converted-to.pdf>
 Package pdftex.def Info: highlight_mock_up-eps-converted-to.pdf used on input l
 ine 222.
-(pdftex.def)             Requested size: 142.26578pt x 113.80963pt.
+(pdftex.def)             Requested size: 142.26576pt x 113.8109pt.
 Package epstopdf Info: Source file: <s.eps>
-(epstopdf)                    date: 2017-06-14 11:14:02
+(epstopdf)                    date: 2017-06-15 11:14:30
 (epstopdf)                    size: 414678 bytes
 (epstopdf)             Output file: <s-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-14 11:14:19
+(epstopdf)                    date: 2017-06-15 11:14:30
 (epstopdf)                    size: 14185 bytes
 (epstopdf)             Command: <repstopdf --outfile=s-eps-converted-to.pdf s.e
 ps>
@@ -748,7 +748,7 @@ xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on PoemageFinalPaper.pdf (5 pages, 284302 bytes).
+Output written on PoemageFinalPaper.pdf (5 pages, 274603 bytes).
 PDF statistics:
  196 PDF objects out of 1000 (max. 8388607)
  174 compressed objects within 2 object streams
